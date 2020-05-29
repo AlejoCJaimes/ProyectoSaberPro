@@ -1,0 +1,76 @@
+﻿@model IEnumerable<ProyectoSaberPro.Models.Usuario>
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Estudiante";
+}
+<html>
+<head>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/StyleTest.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+    }
+
+    <header class="CabeceraEstudiante">
+        <div class="container">
+            <div class="ContenedorMenuHorizontalEstudiante titulo-navegador-contenedor">
+
+                
+                <p class="TituloEstudiante"> @Html.ActionLink("Estudiante", "Index", "Estudiante")</p> 
+                
+                <div class="NavegadorMenuHorizontalEstudiante navbar-left">
+
+                    <ul class="nav navbar-text">
+                        <li class="dropdown-test">
+                            <a href="#" class="dropdown-toggle-test" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">Prueba<span class="caret-test"></span></a>
+                            <ul class="dropdown-menu-test">
+                                <li>@Html.ActionLink("Presentar Prueba", "Index", "Estudiante")</li>
+                                <li>@Html.ActionLink("Ver Resultados", "Index", "Estudiante")</li>
+
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">One more separated link</a></li>
+                            </ul>
+                        </li>
+                        <li>@Html.ActionLink("Información", "Index", "Estudiante")</li>
+                        <li>@Html.ActionLink("Editar Perfil", "Index", "Estudiante")</li>
+
+
+                    </ul>
+
+                    <ul class="NavegadorMenuHorizontalEstudiante navbar-right">
+                        <li>
+                            @Html.ActionLink("Hola " + Model.Where(x => x.Correo.Equals(User.Identity.GetUserName())).Select(x => x.Nombre).First() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                        </li>
+                        <li><a href="javascript:document.getElementById('logoutForm').submit()">Cerrar sesión</a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container body-content">
+        <br />
+        @RenderBody()
+        <hr />
+        <footer class="Pie">
+            <div class="ContenedorMenuHorizontalEstudiante">
+                <p>&copy; @DateTime.Now.Year - Rangel, Carrillo, Villamizar, Valencia</p>
+            </div>
+        </footer>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    @Styles.Render("~/Content/themes/base/css")
+</body>
+</html>

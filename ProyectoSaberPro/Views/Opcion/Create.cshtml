@@ -1,0 +1,109 @@
+﻿@model ProyectoSaberPro.Models.OpcionViewModel
+
+@{
+    ViewBag.Title = "Crear Opcion";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutDocente/_headerDocente.cshtml";
+
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <!--Inicio de Descripcion-->
+        <h4>Opciones</h4>
+        <hr />
+        <div class="form-group">
+            @Html.Label("A)", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextArea("descA", null, new { cols = 10, rows = 2, @class = "form-control" , id="descripcion"})
+                @Html.ValidationMessageFor(model => model.opciones.Descripcion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("B)", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextArea("descB", null, new { cols = 10, rows = 2, @class = "form-control" , id="descripcion"})
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("C)", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextArea("descC", null, new { cols = 10, rows = 2, @class = "form-control", id="descripcion" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("D)", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextArea("descD", null, new { cols = 10, rows = 2, @class = "form-control", id="descripcion" })
+
+            </div>
+        </div>
+        <!--Fin de Descripcion-->
+        <!--Opciones-->
+
+        <div class="form-group">
+            @Html.Label("Opcion Correcta", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                &nbsp;&nbsp;
+                @Html.RadioButtonFor(model => model.OpcionCorrecta, "A", new { htmlAttributes = new { @class = "form-control" } })
+                A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.RadioButtonFor(model => model.OpcionCorrecta, "B", new { htmlAttributes = new { @class = "form-control" } })
+                B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.RadioButtonFor(model => model.OpcionCorrecta, "C", new { htmlAttributes = new { @class = "form-control" } })
+                C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.RadioButtonFor(model => model.OpcionCorrecta, "D", new { htmlAttributes = new { @class = "form-control" } })
+                D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ValidationMessageFor(model => model.OpcionCorrecta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!--Opciones -->
+
+        <div class="form-group">
+            @Html.LabelFor(model => model, "Pregunta", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <textarea type="text" class="form-control" required name="Pregunta" id="pregunta" placeholder="Escriba el nombre de la pregunta"></textarea>
+            </div>
+        </div>
+        <br />
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+
+    <script src="~/Scripts/autosize.min.js"></script>
+    <script>
+        autosize(document.querySelectorAll('#descripcion'));
+
+    </script>
+    <script>
+        $(function () {
+            $("#pregunta").autocomplete({
+                source: '@Url.Action("BuscarPreguntasDisponibles","Home")',
+
+
+            });
+        });
+    </script>
+
+}

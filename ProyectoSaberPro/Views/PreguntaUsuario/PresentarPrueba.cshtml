@@ -1,0 +1,34 @@
+﻿@model ProyectoSaberPro.Models.PruebaPOViewModel
+
+@{
+    ViewBag.Title = "Presentar prueba";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutEstudiante/_headerEstudiante.cshtml";
+
+}
+
+<h2>PresentarPrueba</h2>
+@using (Html.BeginForm("PresentarPrueba", "PreguntaUsuario", FormMethod.Post))
+{
+    int i = 0;
+    foreach (var pregunta in Model.Preguntas)
+    {
+        <p class="h4">@pregunta.Competencia.Nombre</p>
+        <p>@pregunta.Enunciado.TItulo</p>
+        <p>@pregunta.Enunciado.Descripcion</p>
+        <p>@pregunta.Descripcion</p>
+
+        foreach (var opcion in Model.Opciones.Where(o => o.IdPreguntaOpcion == pregunta.Id))
+        {
+            <label class="btn btn-secondary">
+                <label class="radio">
+                    @Html.RadioButtonFor(m => m.OpcionesEstudiante, "Opcion 1") @opcion.Descripcion
+                </label>
+            </label>
+            <br />
+        }
+        <hr />
+        i++;
+    }
+    <input type="submit" name="enviar" value="Enviar" />
+}

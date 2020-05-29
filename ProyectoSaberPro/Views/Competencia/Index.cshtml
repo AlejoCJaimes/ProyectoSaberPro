@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ProyectoSaberPro.Models.Competencia>
+
+@{
+    ViewBag.Title = "Docente";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutDocente/_headerDocente.cshtml";
+
+}
+
+
+<p>
+    <h2><a href="@Url.Action("Create","Competencia",null)" class="btn btn-primary"><i class="fas fa-plus"></i> Crear Competencia</a></h2>
+</p>
+<p>
+
+</p>
+<table class="table ">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            Acciones
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <div class="container-fluid">
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </div>
+            </td>
+            <td>
+                <div class="container-fluid">
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </div>
+            </td>
+            <td>
+                <div class="container-fluid">
+                    <a href="@Url.Action("Details","Competencia",new { id = item.Id })" class="btn btn-info btn-sm"><i class="fas fa-eye"></i> Detalles</a>
+                    <a href="@Url.Action("Edit","Competencia",new { id = item.Id })" class="btn btn-warning btn-sm"><i class="fas fa-pen"></i> Editar</a>
+                    <a href="@Url.Action("Delete","Competencia",new { id = item.Id })" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Eliminar</a>
+                </div>
+            </td>
+        </tr>
+    }
+
+</table>

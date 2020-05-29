@@ -1,0 +1,76 @@
+﻿@model ProyectoSaberPro.Models.OpcionViewModel
+
+@{
+    ViewBag.Title = "Detallaes Opcion";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutDocente/_headerDocente.cshtml";
+
+}
+
+
+<div>
+
+    <hr />
+    <div class="panel panel-info">
+        <div class="panel-heading"><h4>Detalles</h4></div>
+        <div class="panel-body">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayName("Pregunta")
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Pregunta)
+                    <br />
+                </dd>
+
+                
+                <dt>
+                    <br />
+                    @Html.DisplayName("A)")
+                </dt>
+                <dd>
+                    <br />
+                    @Html.DisplayFor(model => model.descA)
+                </dd>
+                <dt>
+                    <br />
+                    @Html.DisplayName("B)")
+                </dt>
+                <dd>
+                    <br />
+                    @Html.DisplayFor(model => model.descD)
+                </dd>
+                <dt>
+                    <br />
+                    @Html.DisplayName("C)")
+                </dt>
+                <dd>
+                    <br />
+                    @Html.DisplayFor(model => model.descC)
+                </dd>
+                <dt>
+                    <br />
+                    @Html.DisplayName("D)")
+                </dt>
+                <dd>
+                    <br />
+                    @Html.DisplayFor(model => model.descD)
+                </dd>
+                <dt>
+                    <br />
+                    @Html.DisplayName("Opcion Correcta")
+                </dt>
+
+                <dd>
+                  <br />
+                    <p><strong>@Model.OpcionCorrecta </strong></p>
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

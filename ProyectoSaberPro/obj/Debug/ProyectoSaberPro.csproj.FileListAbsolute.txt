@@ -1,0 +1,252 @@
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\ProyectoSaberPro.dll.config
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\ProyectoSaberPro.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\ProyectoSaberPro.pdb
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csc.exe
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csc.exe.config
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csc.rsp
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csi.exe
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csi.exe.config
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csi.rsp
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.AppContext.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Console.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Net.Http.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\vbc.exe
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\vbc.exe.config
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\vbc.rsp
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Antlr3.Runtime.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.SqlServer.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Newtonsoft.Json.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Owin.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Helpers.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Mvc.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Optimization.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Razor.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\WebGrease.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Helpers.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Mvc.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Optimization.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Razor.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Newtonsoft.Json.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Antlr3.Runtime.pdb
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.SqlServer.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\EntityFramework.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.csprojAssemblyReference.cache
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.csproj.CopyComplete
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.dll
+C:\Users\JHON\source\repos\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\ProyectoSaberPro.dll.config
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\ProyectoSaberPro.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\ProyectoSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csc.exe
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csc.exe.config
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csc.rsp
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csi.exe
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csi.exe.config
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\csi.rsp
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.AppContext.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Collections.Immutable.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Console.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Globalization.Calendars.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.Compression.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.FileSystem.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Net.Http.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Net.Sockets.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Reflection.Metadata.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.ValueTuple.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.XPath.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\vbc.exe
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\vbc.exe.config
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\vbc.rsp
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\VBCSCompiler.exe
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\roslyn\VBCSCompiler.exe.config
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Antlr3.Runtime.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.SqlServer.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Google.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Web.Infrastructure.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Newtonsoft.Json.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Owin.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Helpers.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Mvc.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Optimization.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Razor.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Deployment.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Razor.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\WebGrease.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Helpers.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Mvc.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Optimization.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.Razor.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Deployment.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\System.Web.WebPages.Razor.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Newtonsoft.Json.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Antlr3.Runtime.pdb
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\EntityFramework.SqlServer.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Google.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Helpers.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Mvc.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Optimization.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.Razor.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.WebPages.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\EntityFramework.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\EntityFramework.SqlServer.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.dll
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\5TO SEMESTRE\PROGRAMACIÓN III\PROYECTO_FINAL\ProyectoSaberPro\ProyectoSaberPro\obj\Debug\ProyectoSaberPro.csprojAssemblyReference.cache

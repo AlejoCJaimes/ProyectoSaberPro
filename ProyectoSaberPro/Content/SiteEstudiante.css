@@ -1,0 +1,66 @@
+﻿.navbar-default-estudiante {
+    background-color: #0080FF;
+    border-color: #532222;
+}
+
+    .navbar-default-estudiante .navbar-brand {
+        color: #f7f7f7;
+    }
+
+        .navbar-default-estudiante .navbar-brand:hover,
+        .navbar-default-estudiante .navbar-brand:focus {
+            color: #f7f7f7;
+        }
+
+    .navbar-default-estudiante .navbar-text {
+        color: #532222;
+    }
+
+    .navbar-default-estudiante .navbar-nav > li > a {
+        color: #f7f7f7;
+    }
+
+        .navbar-default-estudiante .navbar-nav > li > a:hover,
+        .navbar-default-estudiante .navbar-nav > li > a:focus {
+            color: #532222;
+        }
+
+    .navbar-default-estudiante .navbar-nav > .active > a,
+    .navbar-default-estudiante .navbar-nav > .active > a:hover,
+    .navbar-default-estudiante .navbar-nav > .active > a:focus {
+        color: #532222;
+        background-color: #532222;
+    }
+
+    .navbar-default-estudiante .navbar-nav > .open > a,
+    .navbar-default-estudiante .navbar-nav > .open > a:hover,
+    .navbar-default-estudiante .navbar-nav > .open > a:focus {
+        color: #fbf6f6;
+        background-color: #a590ae;
+    }
+
+    .navbar-default-estudiante .navbar-toggle {
+        border-color: #a590ae;
+    }
+
+        .navbar-default-estudiante .navbar-toggle:hover,
+        .navbar-default-estudiante .navbar-toggle:focus {
+            background-color: #532222;
+        }
+
+        .navbar-default-estudiante .navbar-toggle .icon-bar {
+            background-color: #f7f7f7;
+        }
+
+    .navbar-default-estudiante .navbar-collapse,
+    .navbar-default-estudiante .navbar-form {
+        border-color: #532222;
+    }
+
+    .navbar-default-estudiante .navbar-link {
+        color: #532222;
+    }
+
+        .navbar-default-estudiante .navbar-link:hover {
+            color: #532222;
+        }

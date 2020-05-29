@@ -1,0 +1,51 @@
+﻿@model ProyectoSaberPro.Models.Prueba
+
+@{
+    ViewBag.Title = "Detalle Prueba";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutDocente/_headerDocente.cshtml";
+
+}
+
+
+
+<div>
+    <h4>Prueba</h4>
+    <hr />
+    <div class="panel panel-info">
+        <div class="panel-heading"><h4>@Html.DisplayFor(model => model.Nombre)</h4></div>
+            <div class="panel-body">
+                <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayName("Elaborado por")
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Usuario.Nombre)
+                </dd>
+
+                <dt>
+                    @Html.DisplayName("Nombre")
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Nombre)
+                </dd>
+
+                <dt>
+                    @Html.DisplayName("Fecha Creación")
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.FechaCreacion)
+                </dd>
+
+            </dl>
+        </div>
+    </div>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

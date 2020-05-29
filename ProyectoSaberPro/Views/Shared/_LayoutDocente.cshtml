@@ -1,0 +1,121 @@
+﻿@using Microsoft.AspNet.Identity
+@using System.Globalization;
+@model ProyectoSaberPro.Models.Usuario
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/modernizr")
+
+@using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+{
+    @Html.AntiForgeryToken()
+}
+<body>
+    <!--<div class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <ol class="breadcrumb">
+
+                </button>
+                @Html.ActionLink("Docente", "Index", "Docente", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Inicio", "Index", "Docente")</li>
+                </ul>
+            </div>
+        </div>
+    </div>-->
+
+    <header>
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <ul class="nav nav-pills container-fluid">
+                    <li role="presentation" class="active"><a href="#">Inicio</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Prueba <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Crear</a></li>
+                            <li><a href="#">Editar</a></li>
+                            <li><a href="#">Listar</a></li>
+                            <li><a href="#">Asignar</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Pregunta <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Crear</a></li>
+                            <li><a href="#">Editar</a></li>
+                            <li><a href="#">Listar</a></li>
+                            <li><a href="#">Asignar</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            Enunciado <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Crear</a></li>
+                            <li><a href="#">Editar</a></li>
+                            <li><a href="#">Listar</a></li>
+                            <li><a href="#">Asignar</a></li>
+                        </ul>
+                    </li>
+
+
+
+                    <li class="navbar-right"><a href="javascript:document.getElementById('logoutForm').submit()">Cerrar sesión</a></li>
+                    <li class="navbar-right"><a href="#">Perfil</a></li>
+                    <li class="navbar-right">
+                        @Html.ActionLink("Bienvenido " + User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    @{
+        var input = DateTime.Now.ToString("dddd, dd MMMM yyyy");
+
+        // result == "martes, julio 26, 2011"
+        //DateTime TheDate = DateTime.Parse("January 01 2011");
+
+    }
+    <div class="container body-content">
+        @RenderBody()
+        <div class="page-header">
+            <h1>
+                Fecha y hora actual: @DateTime.Now.ToString("dddd, dd MMMM yyyy") <br /> <br />
+                <small>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    It has survived not only five centuries, but also the leap into electronic typesetting,
+                    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
+                    Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
+                    of Lorem Ipsum.
+                </small>
+            </h1>
+        </div>
+        <div class="progress">
+            <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+                <span class="sr-only">40% Complete</span>
+            </div>
+        </div>
+        <hr />
+
+        <footer>
+            <p>&copy; @DateTime.Now.Year - AlejandroJaimes</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>

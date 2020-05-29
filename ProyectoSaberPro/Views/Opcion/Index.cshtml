@@ -1,0 +1,76 @@
+﻿@model IEnumerable<ProyectoSaberPro.Models.Opcion>
+
+@{
+    ViewBag.Title = "Opcion";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutDocente/_headerDocente.cshtml";
+
+}
+
+
+<h2><a href="@Url.Action("Create","Opcion",null)" class="btn btn-primary"><i class="fas fa-plus"></i> Añadir opciones</a></h2>
+&nbsp;&nbsp;
+@using (Html.BeginForm())
+{
+    <p>
+        <textarea type="text" class="form-control navbar-left" id="pregunta" name="Pregunta" placeholder="Escribe el título de la pregunta" cols = "10" rows = "1"></textarea>
+        <button type="submit" value="Search" class="btn btn-group-lg btn-success"><i class="fas fa-search"></i></button>
+    </p>
+}
+
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Titulo Pregunta")
+        </th>
+        <th>
+            @Html.DisplayName("Opcion")
+        </th>
+        <th>
+            @Html.DisplayName("Correcta")
+        </th>
+        <th>
+            Acciones
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pregunta.Descripcion)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                <a href="@Url.Action("Details","Opcion",new { id = item.Id })" class="btn btn-info btn-sm"><i class="fas fa-eye"></i> Detalles</a>
+                <a href="@Url.Action("Edit","Opcion",new { id = item.Id })" class="btn btn-warning btn-sm"><i class="fas fa-pen"></i> Editar</a>
+                <a href="@Url.Action("Delete","Opcion",new { id = item.Id })" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Eliminar</a>
+            </td>
+
+
+        </tr>
+    }
+
+</table>
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+
+    <script>
+        $(function () {
+            $("#pregunta").autocomplete({
+                source: '@Url.Action("BuscarPreguntaOpcion","Home")',
+                
+
+
+            });
+        });
+    </script>
+}

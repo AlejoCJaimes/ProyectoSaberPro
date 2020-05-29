@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProyectoSaberPro.Models.PruebaPregunta>
+
+@{
+    ViewBag.Title = "Presentar Prueba Index";
+    //Layout = "~/Views/Shared/_LayoutDocente.cshtml";
+    Layout = "~/Views/Shared/LayoutEstudiante/_headerEstudiante.cshtml";
+
+}
+
+<h2>Index</h2>
+
+
+
+@foreach (var item in Model)
+{
+    <div class="col-xs-6 col-lg-4 panel-info">
+
+        <div class="panel-body">
+            <ul class="list-group">
+                <li class="list-group-item active"><h4> @Html.DisplayFor(modelItem => item.Prueba.Nombre)</h4></li>
+                <li class="list-group-item">Número de Preguntas: @Model.Where(x => x.Pregunta.Id == x.IdPregunta).Count()</li>
+                <li class="list-group-item">Elaborado por: @Html.DisplayFor(modelItem => item.Prueba.Usuario.Nombre) </li>
+                <li class="list-group-item">
+                    <a href="@Url.Action("Details","PruebaPregunta",new { id = item.Id })" class="btn btn-success"><i class="fas fa-eye"></i>Presentar</a>
+                    
+                    <!--<a href="///Url.Action("Delete","Opcion",new { id = item.Id })" class="btn btn-danger"><i class="fas fa-trash"></i> Eliminar</a>-->
+
+                </li>
+
+
+            </ul>
+
+        </div>
+    </div><!--/.col-xs-6.col-lg-4-->
+}
+
+

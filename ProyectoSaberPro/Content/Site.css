@@ -1,0 +1,91 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.navbar-default-docente {
+    background-color: #07a597;
+    border-color: #532222;
+}
+
+    .navbar-default-docente .navbar-brand {
+        color: #f7f7f7;
+    }
+
+        .navbar-default-docente .navbar-brand:hover,
+        .navbar-default-docente .navbar-brand:focus {
+            color: #f7f7f7;
+        }
+
+    .navbar-default-docente .navbar-text {
+        color: #532222;
+    }
+
+    .navbar-default-docente .navbar-nav > li > a {
+        color: #f7f7f7;
+    }
+
+        .navbar-default-docente .navbar-nav > li > a:hover,
+        .navbar-default-docente .navbar-nav > li > a:focus {
+            color: #532222;
+        }
+
+    .navbar-default-docente .navbar-nav > .active > a,
+    .navbar-default-docente .navbar-nav > .active > a:hover,
+    .navbar-default-docente .navbar-nav > .active > a:focus {
+        color: #532222;
+        background-color: #532222;
+    }
+
+    .navbar-default-docente .navbar-nav > .open > a,
+    .navbar-default-docente .navbar-nav > .open > a:hover,
+    .navbar-default-docente .navbar-nav > .open > a:focus {
+        color: #fbf6f6;
+        background-color: #a590ae;
+    }
+
+    .navbar-default-docente .navbar-toggle {
+        border-color: #a590ae;
+    }
+
+        .navbar-default-docente .navbar-toggle:hover,
+        .navbar-default-docente .navbar-toggle:focus {
+            background-color: #532222;
+        }
+
+        .navbar-default-docente .navbar-toggle .icon-bar {
+            background-color: #f7f7f7;
+        }
+
+    .navbar-default-docente .navbar-collapse,
+    .navbar-default-docente .navbar-form {
+        border-color: #532222;
+    }
+
+    .navbar-default-docente .navbar-link {
+        color: #532222;
+    }
+
+        .navbar-default-docente .navbar-link:hover {
+            color: #532222;
+        }
