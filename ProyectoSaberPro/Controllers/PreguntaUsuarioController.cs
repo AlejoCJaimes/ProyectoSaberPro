@@ -33,7 +33,7 @@ namespace ProyectoSaberPro.Controllers
         public ActionResult PresentarPrueba (int? id)
         {
             PruebaPOViewModel Prueba = new PruebaPOViewModel();
-            var datos = db.PruebasPreguntas.Include(x => x.Prueba).Include(x => x.Pregunta).Where(x => x.Pregunta.Id.Equals(id))
+            var datos = db.PruebasPreguntas.Include(x => x.Prueba).Include(x => x.Pregunta).Where(x => x.Pregunta.Id.Equals(id));
             var _opciones = db.Opciones.Where(op => op.Id == op.IdPreguntaOpcion).ToList();
 
             var _competencias = db.Competencias.ToList(); ;
