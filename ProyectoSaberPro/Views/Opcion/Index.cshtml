@@ -13,7 +13,7 @@
 @using (Html.BeginForm())
 {
     <p>
-        <textarea type="text" class="form-control navbar-left" id="pregunta" name="Pregunta" placeholder="Escribe el título de la pregunta" cols = "10" rows = "1"></textarea>
+        <textarea type="text" class="form-control navbar-left" id="pregunta" name="Pregunta" placeholder="Escribe el título de la pregunta" cols="20" rows="1" style="width: 1000px;"></textarea>
         <button type="submit" value="Search" class="btn btn-group-lg btn-success"><i class="fas fa-search"></i></button>
     </p>
 }
@@ -62,15 +62,20 @@
 @section scripts {
     <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
     <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+    <script src="~/Scripts/autosize.min.js"></script>
 
     <script>
         $(function () {
             $("#pregunta").autocomplete({
                 source: '@Url.Action("BuscarPreguntaOpcion","Home")',
-                
+
 
 
             });
         });
+    </script>
+
+    <script>
+        autosize(document.querySelectorAll('#pregunta'));
     </script>
 }

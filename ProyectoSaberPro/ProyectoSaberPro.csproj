@@ -176,6 +176,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MunicipioController.cs" />
+    <Compile Include="Controllers\OpcionController.cs" />
     <Compile Include="Controllers\PPPController.cs" />
     <Compile Include="Controllers\PreguntaController.cs" />
     <Compile Include="Controllers\PreguntaUsuarioController.cs" />
